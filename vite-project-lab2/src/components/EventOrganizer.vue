@@ -19,6 +19,11 @@
   
   <style scoped>
   .organize {
-    text-align: right;
+    text-align: center;
+    padding: 20px;
+    width: 250px;
+    cursor: pointer;
+    border: 1px solid #39495c;
+    margin-bottom: 18px;
   }
   </style>
